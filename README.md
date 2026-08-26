@@ -32,7 +32,7 @@ I specialize in designing and engineering high-availability backend systems, dat
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=postgresql&logoColor=black)
 
 ### ⚡ Fun Fact
-When I'm not designing distributed systems or optimizing cloud architectures, you can find me in Padova, Italy, studying *Musica vocale da camera* (Vocal Chamber Music) 🎵.
+When I'm not designing distributed systems or optimizing cloud architectures, you can find me in Padova, Italy.
 
 ---
 📫 **How to reach me:** pierceliu@live.com
