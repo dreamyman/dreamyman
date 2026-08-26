@@ -35,4 +35,4 @@ I specialize in designing and engineering high-availability backend systems, dat
 When I'm not designing distributed systems or optimizing cloud architectures, you can find me in Padova, Italy, studying *Musica vocale da camera* (Vocal Chamber Music) 🎵.
 
 ---
-📫 **How to reach me:** huichao.liu@gmail.com
+📫 **How to reach me:** pierceliu@live.com
