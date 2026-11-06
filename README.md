@@ -2,10 +2,12 @@
 
 **Senior Software Systems Architect | Tech Lead | AI & Quant System Builder**
 
+🌐 **Notes & projects:** [pierceliu.top](https://www.pierceliu.top/en) — write-ups on AI agent infrastructure, knowledge engineering and business analysis, in English, Chinese and Italian.
+
 I specialize in designing and engineering high-availability backend systems, data-heavy SaaS platforms, and resilient architectures. Currently focused on bridging the gap between LLMs and production-grade infrastructure.
 
 ### 🚀 What I'm doing right now
-* 🛠️ Architecting **[Agent Sandbox OSS](https://github.com/dreamyman/agent-sandbox-oss)**: A resilient, Kubernetes-native runtime for long-running AI Agents.
+* 🛠️ Architecting **[Agent Sandbox OSS](https://github.com/dreamyman/agent-sandbox-oss)**: A resilient, Kubernetes-native runtime for long-running AI Agents. ([the story behind it](https://www.pierceliu.top/en/projects/agent-sandbox-oss))
 * 📈 Developing robust quantitative trading frameworks and automated market analysis systems.
 * 🧠 Exploring AI Agent orchestration, Model-Based Systems Engineering (MBSE), and advanced knowledge management (PARA method).
 
@@ -35,4 +37,4 @@ I specialize in designing and engineering high-availability backend systems, dat
 When I'm not designing distributed systems or optimizing cloud architectures, you can find me in Padova, Italy.
 
 ---
-📫 **How to reach me:** pierceliu@live.com
+📫 **How to reach me:** pierceliu@live.com · or [write to me on my site](https://www.pierceliu.top/en/contact)
